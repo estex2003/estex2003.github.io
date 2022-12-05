@@ -1,0 +1,48 @@
+body{
+    background-color: aqua;
+}
+.carrucel{
+    background-color: black;
+    width: 50px;
+    justify-content: center;
+    margin-top: 0.2%;
+}
+.carousel-inner{
+    height: 500px;
+   
+}
+
+.letras{
+    color: rgb(251, 250, 249);
+    margin-left: 5%;
+}
+
+.tarjetas{
+    margin-left: 6%;
+    margin-top: 1%;
+}
+
+.tarjetas1{
+    margin-top: 1%;
+}
+
+.tarjetas_fila_2{
+margin-top: 1%;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.botonescentrados1{
+    margin-left: 15%;
+}
+
+.textoenbarra{
+    margin-right: 50%;
+}
+
+
+
+
+
