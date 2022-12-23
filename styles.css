@@ -42,7 +42,7 @@ margin-top: 1%;
     margin-right: 50%;
 }
 
-@media (max-width:390px){
+@media (max-width:395px){
    .carrucelmain{
     max-height: 160px;
     max-width: 30000px;
