@@ -42,6 +42,21 @@ margin-top: 1%;
     margin-right: 50%;
 }
 
+@media (max-width:390px){
+   .carrucelmain{
+    max-height: 160px;
+    max-width: 30000px;
+   }
+   .tarjetas{
+    padding-left: px;
+    padding-left: 18px;
+   }
+   .card{
+    margin-top: 10px;
+    
+   }
+
+}
 
 
 
